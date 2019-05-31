@@ -6,4 +6,8 @@ h1 {
 
 .header {
     width: 100%;
+    background: url(Images\Hixoro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
