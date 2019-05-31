@@ -3,3 +3,7 @@ h1 {
     color: darkred;
     font-size: 30px;
 }
+
+.header {
+    align-content: center;
+}
